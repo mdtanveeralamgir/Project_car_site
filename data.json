@@ -1,0 +1,45 @@
+{
+	"CAR": [{
+		"MAN": "Honda",
+		"MOD": "Fit",
+		"PRI": "$19,025",
+		"WIK": "https://en.wikipedia.org/wiki/Honda_Fit",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_Honda_Jazz_%28GK5_MY15%29_VTi-L_hatchback_%282016-01-04%29_01.jpg/1920px-2014_Honda_Jazz_%28GK5_MY15%29_VTi-L_hatchback_%282016-01-04%29_01.jpg"
+	}, {
+		"MAN": "Subaru",
+		"MOD": "Impreza",
+		"PRI": "$22,345",
+		"WIK": "https://en.wikipedia.org/wiki/Subaru_Impreza",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2013_Subaru_Impreza_%28MY13%29_2.0i_hatchback_%282015-06-15%29_01.jpg/1920px-2013_Subaru_Impreza_%28MY13%29_2.0i_hatchback_%282015-06-15%29_01.jpg"
+	}, {
+		"MAN": "Toyota",
+		"MOD": "Camry",
+		"PRI": "$32,603",
+		"WIK": "https://en.wikipedia.org/wiki/Toyota_Camry",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2015_Toyota_Camry_%28ASV50R%29_Atara_S_sedan_%282016-03-19%29.jpg/1920px-2015_Toyota_Camry_%28ASV50R%29_Atara_S_sedan_%282016-03-19%29.jpg"
+	}, {
+		"MAN": "Subaru",
+		"MOD": "Forester",
+		"PRI": "$27,145",
+		"WIK": "https://en.wikipedia.org/wiki/Subaru_Forester",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_01.jpg/1280px-2014_Subaru_Forester_%28MY14%29_2.5i_Luxury_wagon_%282015-06-25%29_01.jpg"
+	}, {
+		"MAN": "Lexus",
+		"MOD": "RX",
+		"PRI": "$57,565",
+		"WIK": "https://en.wikipedia.org/wiki/Lexus_RX",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lexus_RX_2016_Corner.jpg/1280px-Lexus_RX_2016_Corner.jpg"
+	}, {
+		"MAN": "Mazda",
+		"MOD": "MX-5 Miata",
+		"PRI": "$29,905",
+		"WIK": "https://en.wikipedia.org/wiki/Mazda_MX-5",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg/1920px-2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg"
+	}, {
+		"MAN": "BMW",
+		"MOD": "Mseries",
+		"PRI": "29000",
+		"WIK": "https://en.wikipedia.org/wiki/BMW_M",
+		"IMG": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BMW-M.M3.arp.750pix.jpg"
+	}]
+}
